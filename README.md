@@ -24,13 +24,4 @@ By default, 100 executions will be ran if no valid argument is inputted.
 ## Program Instructions
 Below is a visual representation of the stat summary you'll see after running the program.
 
-Number of Runs: n
-+----------------------------------------------------------+
-| Hero with sword |  % success  |  % partial  |  %failure  |
-+----------------------------------------------------------+
-|   Tortoise      |       x     |      x      |       x    |
-+----------------------------------------------------------+
-|   Hare          |       x     |      x      |       x    |
-+----------------------------------------------------------+
-|   None          |       x     |      x      |       x    |
-+----------------------------------------------------------+
+<img width="453" alt="image" src="https://user-images.githubusercontent.com/46875495/150267524-a39f96e0-699e-46d7-978d-17c6b2e4ffeb.png">
