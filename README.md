@@ -1,5 +1,5 @@
 ## Purpose
-Program written in C that simulates multiple random executions of a battle between two heros facing a pirate crew.
+Multi-threaded program written in C that simulates multiple random executions of a battle between two heros facing a pirate crew.
 
 ## Source Files
 main.c
